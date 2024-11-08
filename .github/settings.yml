@@ -2,6 +2,6 @@
 _extends: .github
 repository:
   name: aws-managed-grafana
-  description: Template for Terraform Components
+  description: ""
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
